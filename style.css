@@ -77,7 +77,7 @@ a:first-child {
 
 .hero {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: space-evenly;
 }
 
@@ -96,8 +96,4 @@ h1 {
     display: flex;
     gap: 30px;
 
-}
-
-.left-hero {
-    padding-top: 15vh;
 }
